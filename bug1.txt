@@ -2,5 +2,4 @@
 
 "test bug 1" thuộc main mà thôi
 
-"test bug 1" thuộc main 
 
