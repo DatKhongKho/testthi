@@ -1,4 +1,3 @@
-
-
-"test bug 1"
+đây là file test
+thuộc branch: pull-conflict mà thôi
 
