@@ -1,6 +1,2 @@
-
-
-"test bug 1" thuộc main mà thôi
-
-"test bug 1" thuộc main 
-
+đây là file test
+thuộc branch: pull-conflict và main
