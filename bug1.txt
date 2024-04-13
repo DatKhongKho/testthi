@@ -1,11 +1,5 @@
 
-<<<<<<< HEAD
+
 "test bug 1" thuộc main và bug
 
-=======
->>>>>>> main
-
-"test bug 1" thuộc main mà thôi
-
-"test bug 1" thuộc main 
-123
+"test bug 1" thuộc main 123
