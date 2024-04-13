@@ -1,4 +1,6 @@
+
 "test bug 1" thuộc main và bug
+
 
 "test bug 1" thuộc main mà thôi
 
